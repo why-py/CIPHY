@@ -37,7 +37,8 @@ CIPHY v1.1
 
 CIPHY>>>-h
 ```
-#FULL_HELP
+# FULL HELP
+
 ```
 
 
@@ -81,7 +82,7 @@ it's written by why-py(Mobin).
 
 ```
 
-*Me : [Mercad](https://github.com/Sadult) 
-*Owner : [Mobin(why-py)](https://github.com/why-py) 
+* Me : [Mercad](https://github.com/Sadult) 
+* Owner : [Mobin(why-py)](https://github.com/why-py) 
 
 ~ {END}
