@@ -82,7 +82,9 @@ it's written by why-py(Mobin).
 
 ```
 
+# QR
+![Screenshot](webqr.png)
+
+# END
 * Me : [Mercad](https://github.com/Sadult) 
 * Owner : [Mobin(why-py)](https://github.com/why-py) 
-
-~ {END}
