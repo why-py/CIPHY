@@ -3,7 +3,7 @@ import hashlib
 from colorama import init, Fore
 import os
 #CIPHY MERCAD (@Sadult) Edition / Github.com/Sadult
-
+#Code By why-py | Design by Sadult
 # Colors
 init()
 GREEN = Fore.GREEN
@@ -517,8 +517,8 @@ print(f'''{GRAY}
 
 CIPHY v1.1 
   ├ Coded By:
-  ┊   ├ Github.com/why-py
-  ┊   └ T.me/unicpython
+  ┊   ├ Design : T.me/Sadult + Github.com/Sadult
+  ┊   └ CODE : T.me/unicpython + Github.com/why-py
   ┊   
   └ INFO:
 	   [+]  simple text encoding/decoding/Hashing tool.
